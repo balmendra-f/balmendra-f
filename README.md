@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  📍 Temuco, Chile  ·  🟢 Abierto a nuevas oportunidades
+  📍 Temuco, Chile &nbsp;·&nbsp; 🟢 Abierto a nuevas oportunidades
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/balmendra-f">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[balmendra.f@gmail.com](mailto:balmendra.f@gmail.com)">
+  <a href="mailto:balmendra.f@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=balmendra-f&label=Visitas&color=8B5CF6&style=for-the-badge" alt="Profile views" />
@@ -38,6 +38,8 @@ Me interesa especialmente transformar ideas en productos funcionales, con foco e
 * 🧩 **Diseño de APIs y lógica de negocio**
 * 🤖 **Integración de IA en productos reales**
 * 🚀 **Entrega de funcionalidades end-to-end**
+
+No me limito a implementar interfaces: me interesa entender **cómo funciona el producto completo** y tomar decisiones técnicas que tengan impacto real.
 
 ---
 
@@ -88,6 +90,8 @@ Aplicación multiplataforma orientada a reemplazar un proceso manual basado en p
 
 ---
 
+## 🧠 Cómo construyo software
+
 ### 🤖 IA como herramienta de desarrollo
 
 Utilizo herramientas de IA como parte de mi flujo de desarrollo, pero manteniendo el control sobre la arquitectura y el código.
@@ -128,22 +132,6 @@ La decisión técnica final sigue estando en el código y en la arquitectura del
 **AWS Academy Graduate** · Cloud Foundations
 
 🇨🇱 Español nativo · 🇬🇧 Inglés B1
-
----
-
-## 📈 Actividad
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balmendra-f&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/balmendra-f/balmendra-f/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
 
 ---
 
