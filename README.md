@@ -19,7 +19,6 @@
   <a href="mailto:balmendra.f@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=balmendra-f&label=Visitas&color=8B5CF6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
