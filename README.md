@@ -20,24 +20,6 @@
 
 ---
 
-## ⚡ En números
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h2>10.000+</h2>
-      descargas en Google Play<br>de la app donde trabajé
-    </td>
-    <td align="center" width="33%">
-      <h2>4s → 1-2s</h2>
-      tiempo de carga en catálogos<br>de hasta 13.000 productos
-    </td>
-    <td align="center" width="33%">
-      <h2>End-to-end</h2>
-      diseño técnico, backend,<br>base de datos e interfaz
-    </td>
-  </tr>
-</table>
 
 ---
 
